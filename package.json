@@ -1,7 +1,7 @@
 {
   "name": "niru",
   "version": "0.69.420",
-  "homepage": "https://niroopa-rp.github.io/create-table-and-form-using-react/",
+  "homepage": "https://niroopa-rp.github.io/REACT-FORMS-AND-TABLE/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
