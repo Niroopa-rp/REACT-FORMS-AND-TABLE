@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create-table-and-form-using-react/static/css/main.66e2147d.css",
+    "main.js": "/create-table-and-form-using-react/static/js/main.9c29a3b1.js",
+    "index.html": "/create-table-and-form-using-react/index.html",
+    "main.66e2147d.css.map": "/create-table-and-form-using-react/static/css/main.66e2147d.css.map",
+    "main.9c29a3b1.js.map": "/create-table-and-form-using-react/static/js/main.9c29a3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e2147d.css",
+    "static/js/main.9c29a3b1.js"
+  ]
+}
